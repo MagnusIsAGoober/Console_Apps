@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Conditional_Statements, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Conditional_Statements -> C:\Users\2013.102253\Desktop\C#_Lessons\Conditional_Statements\Conditional_Statements\bin\Debug\net6.0\Conditional_Statements.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 2:55 PM and took 00.954 seconds ==========
